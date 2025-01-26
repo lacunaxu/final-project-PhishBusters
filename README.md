@@ -1,17 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/q4BQ8R99)
-# DSCI 510 Final Project
+# Final Project
 
 ## Fraudulent Website Detection and Analysis
 Develop a solution to identify and analyze fraudulent websites, leveraging machine learning and data analysis to assist cybersecurity teams and users in safer browsing.
 
 ## Team Members (Name and Student IDs)
 - **Chenyi Weng**
-  - **USC ID**: 3769237784
   - **GitHub Username**: MONA100421
   - **Email**: [wengchen@usc.edu](mailto:wengchen@usc.edu)
 
 - **Zixi Wang**
-  - **USC ID**: 2854187591
   - **GitHub Username**: lacunaxu
   - **Email**: [zwang049@usc.edu](mailto:zwang049@usc.edu)
 
